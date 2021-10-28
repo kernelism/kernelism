@@ -9,7 +9,6 @@
 * Linux
 	
 ## Find me 
-* Email: arjunsreedar26@gmail.com
 * [Instagram](https://www.instagram.com/arjjuuun/)
 
 Cheers :)
