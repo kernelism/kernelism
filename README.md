@@ -1,17 +1,13 @@
-### Hi there, I'm Arjhun👋
+# Hi there, My Name is S.Arjhun. I'm currently doing Bachelors in Computer Science Engineering.
 
-<!--
-**MinatoNamikaze02/MinatoNamikaze02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
--->
+## Skills
+* Android
 
-I'm a passionate rookie developer who's currently doing Bachelors in Engineering.
-
-##**SKILLS**
-  *Android 
-##**LEARNING**
-  *MERN 
-##**INTERESTS**
-  *Networking
-  -Linux
-##ind me here 
-  *📧[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+## Interests
+* CyberSecurity
+* Networking
+* Linux
+	
+## Find me 
+* [Email](arjunsreedar@yahoo.com)
+* [Instagram](https://www.instagram.com/arjjuuun/)
