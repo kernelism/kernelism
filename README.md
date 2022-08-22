@@ -1,4 +1,4 @@
 # Hi there 👋
 
-Find my Medium Article on Web Scraping Images with Scrapy [here](https://bit.ly/3nM39Vs) 
+Have a look at my medium articles here [here](https://medium.com/@MinatoNamikaze02) 
 
