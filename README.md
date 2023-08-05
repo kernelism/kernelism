@@ -9,12 +9,17 @@ Welcome to my GitHub profile! I'm a Software Developer who's interested in just 
 
 <br/>
 <p align="left">
-  <a href="">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MinatoNamikaze02&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MinatoNamikaze02&show_icons=true&include_all_commits=true&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MinatoNamikaze02&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinatoNamikaze02&layout=compact" />
+</a>
+
 
 
 ## 📫 Contact
