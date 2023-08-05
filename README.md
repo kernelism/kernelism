@@ -7,6 +7,7 @@
 Welcome to my GitHub profile! I'm a Software Developer who's interested in just about anything that can benefit mankind!
 
 
+
 <br/>
 <p align="left">
   <a href="#">
@@ -15,6 +16,7 @@ Welcome to my GitHub profile! I'm a Software Developer who's interested in just 
   </a>
 </p>
 <br>
+
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinatoNamikaze02&layout=compact" />
