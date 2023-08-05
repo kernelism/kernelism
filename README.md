@@ -6,24 +6,6 @@
 
 Welcome to my GitHub profile! I'm a Software Developer who's interested in just about anything that can benefit mankind!
 
-
-
-<br/>
-<p align="left">
-  <a href="#">
-    <img width="49.5%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=MinatoNamikaze02&show_icons=true&include_all_commits=true&hide_border=true">
-    <img width="49.5%" src="https://github-readme-stats-ruby-one.vercel.app/?user=MinatoNamikaze02&hide_border=true">		  
-  </a>
-</p>
-<br>
-
-
-<a href="#">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=MinatoNamikaze02&layout=compact" />
-</a>
-
-
-
 ## 📫 Contact
 
 Feel free to reach out to me
