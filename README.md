@@ -5,14 +5,13 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/MinatoNamikaze02/)
 
 Welcome to my GitHub profile! I'm a Software Developer who's interested in just about anything that can benefit mankind!
-Proficient in UI/UX, Full-stack Engineering, networks and Natural Language Processing.
-Interested in kernel development and system programming.
+Proficient in UI/UX, Full-stack Engineering, web-scraping, network-analytics and Natural Language Processing.
+Currently working with generative AI wrappers.
 
 ## 📫 Contact
 
-Feel free to reach out to me
-- Email: [arjunsreedar26@gmail.com](mailto:arjunsreedar26@gmail.com)
+Feel free to reach out to me: [arjunsreedar26@gmail.com](mailto:arjunsreedar26@gmail.com)
 
 
-Thanks for stopping by!
+Cheers!
 
