@@ -11,7 +11,7 @@ Currently working with generative AI wrappers.
 
 ## 📫 Contact
 
-Feel free to reach out to me: [arjunsreedar26@gmail.com](mailto:arjunsreedar26@gmail.com)
+Feel free to reach out to me: [arjunsreedar26@gmail.com](mailto:contactarjhun@gmail.com)
 
 
 Cheers!
