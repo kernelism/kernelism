@@ -5,8 +5,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/MinatoNamikaze02/)
 [![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://arjunsreedar.tech)
 
-Welcome to my GitHub profile! I'm a Software Engineer who's interested in just about anything that can benefit mankind!
-Proficient in UI/UX, Full-stack Engineering, web-scraping, network-analytics and Natural Language Processing.
+Welcome to my GitHub profile! I work at Oracle as a Software Engineer, and I'm interested in anything at all tech related.
+I personally like to tinker around with AI/ML and anything related to obscure tech.
 
 
 ## 📫 Contact
