@@ -11,6 +11,7 @@ I personally like to tinker around with AI/ML and anything related to obscure te
 - [Installing from Source on Linux](https://moi.vonos.net/linux/beginners-installing-from-source/)
 - [Why consumer VPNs are useless](https://moi.vonos.net/2023/08/vpns/)
 - [Do you actually understand backprop?](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+- [PyTorch inside-out](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
 ## 📫 Contact
 
