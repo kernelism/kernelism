@@ -15,7 +15,7 @@ I personally like to tinker around with AI/ML and anything related to obscure te
 
 ## 📫 Contact
 
-Feel free to reach out to me: [contactarjhun@gmail.com](mailto:contactarjhun@gmail.com)
+Feel free to reach out to me [here](mailto:contactarjhun@gmail.com)
 
 
 Cheers!
