@@ -16,8 +16,6 @@ Incoming CS grad student at UMass Amherst.
 - [Do you actually understand backprop?](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - [PyTorch inside-out](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
-## Active contributions
-- Pandas
 
 ## 📫 Contact
 Feel free to reach out to me [here](mailto:contactarjhun@gmail.com)
