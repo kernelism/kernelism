@@ -4,18 +4,10 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@arjuns0206)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tsBCrlW2uD/)
 
-Welcome to my GitHub profile! I work at Oracle as a Software Engineer, and I'm interested in anything at all tech related.
+Welcome to my GitHub profile! Ex-SDE at Oracle with 1 YOE.
 I personally like to tinker around with AI/ML and anything related to obscure tech.
 
 Incoming CS grad student at UMass Amherst.
-
-## Here are some things you might want to read ;)
-- [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-- [Installing from Source on Linux](https://moi.vonos.net/linux/beginners-installing-from-source/)
-- [Why consumer VPNs are useless](https://moi.vonos.net/2023/08/vpns/)
-- [Do you actually understand backprop?](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
-- [PyTorch inside-out](http://blog.ezyang.com/2019/05/pytorch-internals/)
-
 
 ## 📫 Contact
 Feel free to reach out to me [here](mailto:contactarjhun@gmail.com)
